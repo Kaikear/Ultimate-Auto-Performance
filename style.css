@@ -13,6 +13,9 @@ body {
     font-family: 'Chakra Petch', sans-serif;
 }
 
+.produtos{
+    display: flex;
+}
 
 .conteudo-principal {
     display: flex;
