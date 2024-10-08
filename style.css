@@ -15,9 +15,12 @@ body {
 
 .produtos{
     display: flex;
-    width: 200px;
+   
 }
-
+.produtos__imagens{
+    width: 200px;
+    height: 200px;
+}
 
 .conteudo-principal {
     display: flex;
